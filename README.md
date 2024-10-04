@@ -3,11 +3,11 @@
 📖 03 | Boas práticas para a criação de componentes reutilizáveis | 4h
 
 ```
-    git clone https://github.com/viniciusciunek/pdm2-utfpr/tree/modulo_03 -b modulo_03
+git clone https://github.com/viniciusciunek/pdm2-utfpr -b modulo_03
 
-    yarn
+yarn
 
-    yarn start --tunnel
+yarn start --tunnel
 ```
 
 # Tema de Estudo: Gerenciamento de recursos em dispositivos móveis
